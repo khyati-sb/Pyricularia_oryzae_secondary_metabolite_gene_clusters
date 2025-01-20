@@ -1,7 +1,7 @@
 ## Association of secondary metabolite gene clusters with host-specific lineages of the cereal blast fungus *Pyricularia oryzae*
 
 
-All the dataset generated for this study are provided as supplementary datasets in Additional file 3.<br />
+All the dataset generated for this study are provided as supplementary datasets in Additional file 3.<br>
 
 
 
