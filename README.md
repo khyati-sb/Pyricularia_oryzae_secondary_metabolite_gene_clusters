@@ -2,7 +2,7 @@
 
 
 All the dataset generated for this study are provided as supplementary datasets in Additional file 3.  
-#### [Additional file 3]: 
+#### [Additional file 3](https://github.com/khyati-sb/Pyricularia_oryzae_secondary_metabolite_gene_clusters/tree/main/Additional_file_3): 
 
 Dataset S1. Maximum-likelihood tree based on 2655 BUSCOs present in 68 strains of P. oryzae.
 
